@@ -6,4 +6,5 @@ Get this bot on your server [Click Here](https://discord.com/oauth2/authorize?cl
 | ------ | ------ |
 | Prefix | my. |
 | my.help | This provides the help document |
+| my.help COMMAND | get more information on a command. |
 | my.info | Get info on the bot |
