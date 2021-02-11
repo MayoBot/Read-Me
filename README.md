@@ -4,7 +4,8 @@ If you are looking for a simple and useful bot, I'm the one!
 # Mayo Bot Commands
  
 Get this bot on your server [Click Here](https://discord.com/oauth2/authorize?client_id=786472260931813386&permissions=8&scope=bot)
-Need help with the bot? Join the [Support Server]!(https://discord.gg/7jC7cEA2qd)
+
+Need help with the bot? Join the [Support Server](https://discord.gg/7jC7cEA2qd)!
 
 | Command | Description |
 | ------ | ------ |
