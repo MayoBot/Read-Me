@@ -7,8 +7,6 @@ Get this bot on your server [Click Here](https://discord.com/api/oauth2/authoriz
 
 Need help with the bot? Join the [Support Server](https://discord.gg/mztnkVAMUc)!
 
-Bot hosting isn't cheap so feel free to support us on [Patreon](https://www.patreon.com/mayobot)!
-
 | Command | Description |
 | ------ | ------ |
 | Prefix | my. |
